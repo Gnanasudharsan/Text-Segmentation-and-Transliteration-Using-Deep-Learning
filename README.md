@@ -139,13 +139,4 @@ python main.py --input_image path/to/image.jpg --output_dir results/ --lang en -
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Sri Sairam Engineering College for providing research facilities
-- IEEE for publishing our work
-- The open-source community for the tools and libraries used
-
-
 ---
-
-**Note**: This is a research implementation. For production use, please ensure proper testing and optimization based on your specific requirements.
